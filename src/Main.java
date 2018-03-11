@@ -10,7 +10,7 @@ public class Main {
         fuelCar.refuel();
         fuelCar.stop();
         fuelCar.refuel();
-        System.out.println("----------Behaviour of electric ------------");
+        System.out.println("----------Behaviour of electric car------------");
         electricCar.start();
         electricCar.refuel();
         electricCar.stop();
